@@ -11,3 +11,7 @@
  ## Work experience:
  + August 2016- July 2018 - Chief Economist at "Shumilinsky Rayagroservice"
 + August 2018-present - economist of [LLC "Fireplaces Factory" Glivi"](https://glivi.ru/)
+## Languages:
+1. Russian (native)
+2. English (basic knowledge)
+3. French (b2)
