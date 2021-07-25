@@ -1,12 +1,19 @@
+p{ text-align: center;}
+h1{text-align: center;}
+h2{text-align: center;}
+
 p{font-size:20px;}
 h1{color:blueviolet;}
 h2{color:crimson;}
 .list{color:darkgreen;}
 .sk{color:darkslateblue;}
-.center{text-aling:center;}
+.center{widht:30%; height:400px;text-align:center;backgroung:color rgb(214, 194, 194);}
+.right{widht:30%;height:450px; float:right;backgroung:color rgb(72, 85, 129);}
+.left{widht:30%; height:400px;float:left;backgroung:color rgb(150, 197, 136);}
 .pole{font:bold 40px verdana,ans-serif;}
 .pole{border:1px dotted rgb(167, 35, 35);}
 .pole2{font:bold 30px arial,ans-serif;}
 .pro{border:1px solid rgb(35, 38, 167);}
 .italic{font-style:italic;}
 .pole3{background: color #2196f3;padding:10px;}
+.logosize{widht:180px; height:90px;}
