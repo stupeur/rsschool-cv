@@ -14,6 +14,6 @@ h2{color:crimson;}
 .pole2{font:bold 30px arial,ans-serif;}
 .italic{font-style:italic;}
 .pole3{background: color #2196f3;padding:10px;}
-.logosize{width:100px; height:90px; position:absolute; left:300px; bottom:10px}
-.footer{width:20px;height:10px;position:absolute; right:500px; bottom:0}
+.logosize{width:100px; height:90px; position:absolute; left:1500px; bottom:100px;}
+.footer{width:20px;height:10px;position:absolute; right:500px; bottom:100px;}
 .contact{background-color: darkviolet;color: #000; width:400px;height:300px;font-size:30px;position:absolute;top:20px; right:100px;}
