@@ -6,13 +6,14 @@ h1{color:blueviolet;}
 h2{color:crimson;}
 .list{color:darkgreen;}
 .sk{color:darkslateblue;}
-.center{widht:30%; height:400px;text-align:center;backgroung:color rgb(214, 194, 194);}
-.right{widht:30%;height:450px; float:right;backgroung:color rgb(72, 85, 129);}
-.left{widht:30%; height:400px;float:left;backgroung:color rgb(150, 197, 136);}
+.center{width:30%; height:400px;text-align:center;background-color: rgb(214, 194, 194);}
+.right{width:30%;height:450px; float:right;background-color: rgb(72, 85, 129);}
+.left{width:30%; height:400px;float:left;background-color: rgb(150, 197, 136);}
 .pole{font:bold 40px verdana,ans-serif;}
 .pole{border:1px dotted rgb(167, 35, 35);}
 .pole2{font:bold 30px arial,ans-serif;}
 .italic{font-style:italic;}
 .pole3{background: color #2196f3;padding:10px;}
-.logosize{widht:30px; height:15px;}
-.footer{widht:20px;height:10px;border:1 px solid #000;position:absolute; bottom:0}
+.logosize{width:30px; height:15px;}
+.footer{width:20px;height:10px;border:1 px solid #000;position:absolute; bottom:0}
+.contact{background-color: darkviolet;color: #9999; width:50px;height:70px;padding:5px;font-size:20px;}
