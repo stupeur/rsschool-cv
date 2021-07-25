@@ -6,7 +6,7 @@ h1{color:blueviolet;}
 h2{color:crimson;}
 .list{color:darkgreen;}
 .sk{color:darkslateblue;}
-.center{width:30%; height:400px;text-align:center;background-color: rgb(214, 194, 194);}
+.center{width:30%; height:400px;position:absolute;top:20px; left:200px;text-align:center;background-color: rgb(214, 194, 194);}
 .right{width:30%;height:450px; float:right;background-color: rgb(72, 85, 129);}
 .left{width:30%; height:400px;float:left;background-color: rgb(150, 197, 136);}
 .pole{font:bold 40px verdana,ans-serif;}
@@ -14,6 +14,6 @@ h2{color:crimson;}
 .pole2{font:bold 30px arial,ans-serif;}
 .italic{font-style:italic;}
 .pole3{background: color #2196f3;padding:10px;}
-.logosize{width:100px; height:90px; position:absolute; left:150px; bottom:0}
-.footer{width:20px;height:10px;border:1 px solid #000;position:absolute; left:100px; bottom:0}
-.contact{background-color: darkviolet;color: #000; width:100px;height:70px;font-size:30px;position:absolute;top:20px; right:20px;}
+.logosize{width:100px; height:90px; position:absolute; left:150px; bottom:10px}
+.footer{width:20px;height:10px;border:1 px solid #000;position:absolute; right:150px; bottom:0}
+.contact{background-color: darkviolet;color: #000; width:200px;height:150px;font-size:30px;position:absolute;top:20px; right:100px;}
