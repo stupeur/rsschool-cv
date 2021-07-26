@@ -1,19 +1,12 @@
 p{ text-align: center;}
 h1{text-align: center;}
 h2{text-align: center;}
-p{font-size:20px;}
-h1{color:blueviolet;}
-h2{color:crimson;}
-.list{color:darkgreen;}
-.sk{color:darkslateblue;}
-.center{width:30%; height:400px;position:absolute;top:20px; left:1000px;text-align:center;background-color: rgb(214, 194, 194);}
-.right{width:30%;height:450px; float:right;background-color: rgb(72, 85, 129);}
-.left{width:30%; height:400px;float:left;background-color: rgb(150, 197, 136);}
-.pole{font:bold 40px verdana,ans-serif;}
-.pole{border:1px dotted rgb(167, 35, 35);}
-.pole2{font:bold 30px arial,ans-serif;}
-.italic{font-style:italic;}
-.pole3{background: color #2196f3;padding:10px;}
-.logosize{width:100px; height:90px; position:absolute; left:1500px; bottom:100px;}
-.footer{width:20px;height:10px;position:absolute; right:500px; bottom:100px;}
-.contact{background-color: darkviolet;color: #000; width:400px;height:300px;font-size:30px;position:absolute;top:20px; right:100px;}
+body{background-color: #396b94;color:black;}
+.contact{width:600px; height:200px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(156, 141, 141, 0.5);}
+.img{position:absolute;top:0x;left:600px;}
+.education{width:1200px; height:100px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(181, 184, 140, 0.5);}}
+.work{width:1200px; height:100px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(156, 141, 141, 0.5);}
+.me{width:1200px; height:100px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(173, 138, 167, 0.5);}
+.skills{width:600px; height:150px;text-align:center;background-color: rgba(42, 201, 230, 0.5);}
+.lang{width:600px; height:150px;text-align:center;position:absolute;top:500x;left:600px;background-color: rgba(42, 201, 230, 0.5);}
+.footer{width:1200px;height:50px;}
