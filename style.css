@@ -1,9 +1,13 @@
+h1{font-size:60px;}
+h2{font-size:50px;}
+p{font-size:40px;}
+li{font-size:30px;}
 body{background-color: #4a91ca;color:black;}
 .contact{width:1200px; height:300px;;border:1px solid black;padding:5px;background-color: rgba(156, 141, 141, 0.5);}
-.img{width:200px; height:290px;position:absolute;top:100x;left:1200px;}
-.education{width:2400px; height:100px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(181, 184, 140, 0.5);}
+.img{width:300px; height:400px;position:absolute;top:100x;left:1200px;}
+.education{width:1200px; height:100px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(181, 184, 140, 0.5);}
 .work{width:2400px; height:250px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(156, 141, 141, 0.5);}
 .me{width:2400px; height:250px;text-align:center;border:1px solid black;padding:5px;background-color: rgba(173, 138, 167, 0.5);}
 .skills{width:1200px; height:350px;background-color: rgba(42, 201, 230, 0.5);}
-.lang{width:1200px; height:350px;position:absolute;top:900x;left:1200px;background-color: rgba(42, 201, 230, 0.5);}
-.footer{width:2400px;height:80px;position:absolute;top:1250x;}
+.lang{width:1200px; height:350px;position:absolute;top:650x;left:1200px;background-color: rgba(42, 201, 230, 0.5);}
+.footer{width:2400px;height:80px;position:absolute;top:750x;}
